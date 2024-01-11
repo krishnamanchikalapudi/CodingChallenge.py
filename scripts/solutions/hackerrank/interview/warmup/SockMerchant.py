@@ -20,6 +20,12 @@ import inspect, logging, sys, os, ssl, time, datetime
 """
 
 class SockMerchant:
+    """
+     * PSEUDO CODE video: https://youtu.be/QbqEhxC0mys
+	 * 
+	 * @param colors
+	 * @return
+    """
     def solution(self, inputArr):
         pairs = 0;
         colorsDict = {};

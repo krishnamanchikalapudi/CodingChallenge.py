@@ -1,6 +1,9 @@
 import time, unittest
 from scripts.solutions.hackerrank.interview.warmup.SockMerchant import SockMerchant as SockMerchant
 
+"""
+    PSEUDO CODE video: https://youtu.be/QbqEhxC0mys
+"""
 class SockMerchantTests(unittest.TestCase):
     tests= SockMerchant()
 
